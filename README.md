@@ -1,7 +1,7 @@
 ![logo](https://github.com/HarshitSinghRathore07/HarshitSinghRathore07/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hello👋, I'm Harshit Singh Rathore</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="coding" width="280px" src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif">
 
 
